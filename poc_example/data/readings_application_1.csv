@@ -1,0 +1,3 @@
+,contractId,reason,param,code,counter,valid,validityChangedAt,readAt,value,priority,qualifier,origin,createdAt
+0,822417,NULL,NULL,1-1:1.8.0,8120000949,0,2019-05-06 17:33:18,2019-02-02 00:00:00,1341.0000,2,read,customer,2019-05-06 17:33:18
+0,822417,NULL,NULL,1-1:1.8.0,8120000949,,2019-05-07 09:54:55,2019-02-02 00:00:00,1391.0000,2,read,customer,2019-05-07 09:54:55
