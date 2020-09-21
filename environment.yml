@@ -11,6 +11,7 @@ dependencies:
   - ca-certificates=2020.7.22=0
   - certifi=2020.6.20=py37_0
   - cffi=1.14.2=py37he30daa8_0
+  - cycler=0.10.0=py37_0
   - dbus=1.13.16=hb2f20db_0
   - decorator=4.4.2=py_0
   - defusedxml=0.6.0=py_0
@@ -38,6 +39,8 @@ dependencies:
   - jupyter_client=6.1.6=py_0
   - jupyter_console=6.2.0=py_0
   - jupyter_core=4.6.3=py37_0
+  - kiwisolver=1.2.0=py37hfd86e86_0
+  - lcms2=2.11=h396b838_0
   - ld_impl_linux-64=2.33.1=h53a641e_7
   - libedit=3.1.20191231=h14c3975_1
   - libffi=3.3=he6710b0_2
@@ -46,10 +49,14 @@ dependencies:
   - libpng=1.6.37=hbc83047_0
   - libsodium=1.0.18=h7b6447c_0
   - libstdcxx-ng=9.1.0=hdf63c60_0
+  - libtiff=4.1.0=h2733197_1
   - libuuid=1.0.3=h1bed415_2
   - libxcb=1.14=h7b6447c_0
   - libxml2=2.9.10=he19cac6_1
+  - lz4-c=1.9.2=he6710b0_1
   - markupsafe=1.1.1=py37h14c3975_1
+  - matplotlib=3.3.1=0
+  - matplotlib-base=3.3.1=py37h817c723_0
   - mistune=0.8.4=py37h14c3975_1001
   - mkl=2020.2=256
   - mkl-service=2.3.0=py37he904b0f_0
@@ -61,6 +68,7 @@ dependencies:
   - notebook=6.1.1=py37_0
   - numpy=1.19.1=py37hbc911f0_0
   - numpy-base=1.19.1=py37hfa32c7d_0
+  - olefile=0.46=py37_0
   - openssl=1.1.1g=h7b6447c_0
   - packaging=20.4=py_0
   - pandas=1.1.1=py37he6710b0_0
@@ -70,6 +78,7 @@ dependencies:
   - pcre=8.44=he6710b0_0
   - pexpect=4.8.0=py37_1
   - pickleshare=0.7.5=py37_1001
+  - pillow=7.2.0=py37hb39fc2d_0
   - pip=20.2.2=py37_0
   - prometheus_client=0.8.0=py_0
   - prompt-toolkit=3.0.7=py_0
@@ -109,4 +118,6 @@ dependencies:
   - zeromq=4.3.2=he6710b0_3
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h7b6447c_3
+  - zstd=1.4.5=h9ceee32_0
+prefix: /home/mkrause/anaconda3/envs/powerai-tutorial
 
